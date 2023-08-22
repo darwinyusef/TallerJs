@@ -1,0 +1,39 @@
+.div-center {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 6rem;
+    background-color: lightgray;
+    border: 1px solid darkgray;
+}
+
+div {
+    margin-bottom: 25px;
+}
+
+input {
+    height: 30px;
+    width: 220px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 0;
+    border-bottom: 1px solid black;
+    border-radius: 4px;
+    background-color: transparent;
+}
+
+button {
+    height: 45px;
+    width: 250px;
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+a {
+    color: black;
+}

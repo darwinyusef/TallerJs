@@ -1,0 +1,60 @@
+.div-page {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 60%;
+    margin: 0 auto;
+    background-color: lightgray;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.header button {
+    background-color: transparent;
+    border: 0;
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.div-item {
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.item-ruta {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 800;    
+    font-size: 25px;
+    margin-bottom: 40px;
+    margin-top: -80px;
+}
+
+.item-info {    
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.item-precio {    
+    display: flex;
+    justify-content: end;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+}
+
+a { 
+    color: black;
+}
